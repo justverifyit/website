@@ -272,7 +272,7 @@ viewFooter =
                         , ul []
                             [ li []
                                 [ a
-                                    [ Attr.href "https://addons.thunderbird.net/addon/just-report-it/"
+                                    [ Attr.href "https://addons.thunderbird.net/en-CA/thunderbird/addon/just-verify-it/"
                                     , Attr.target "_blank"
                                     ]
                                     [ text "Thunderbird" ]

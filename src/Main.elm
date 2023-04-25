@@ -190,7 +190,7 @@ viewSectionMain model =
                         [ Attr.class "wrap-btn"
                         ]
                         [ a
-                            [ Attr.href "https://addons.thunderbird.net/en-CA/thunderbird/addon/just-report-it/"
+                            [ Attr.href "https://addons.thunderbird.net/en-CA/thunderbird/addon/just-verify-it/"
                             , Attr.class "btn js_user_agent_link"
                             , Attr.target "_blank"
                             ]
